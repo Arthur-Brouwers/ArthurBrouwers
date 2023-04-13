@@ -10,18 +10,18 @@ In this portfolio, you will find a range of projects including web development a
 
 Overall, this portfolio represents my passion for learning, developing, and sharing my knowledge with others. I hope you find it informative and engaging, and it inspires you to collaborate or learn from me.
 
-This semester, I collaborated with Matthijs Dolmans on the individual project.
+This semester, I collaborated with [Matthijs Dolmans](https://github.com/MatthijsDolmans/MatthijsDolmansS3) on the individual project.
 
 ## Project Organizations
-- [Individual Project]()
-- [Group Project]()
+- [Individual Project](https://github.com/ArthurBrouwersSemester3)
+- [Group Project](https://github.com/wocevv)
 
 ## Documentations
-- [Individual Project]()
-- [Group Project]()
+- [Individual Project](https://github.com/ArthurBrouwersSemester3/Documentation)
+- [Group Project](https://github.com/wocevv/Documentation)
 
 ## Research Documents
-[Research documents]()
+[Research documents](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments.md)
 
 ## Proof of Learning Outcomes
 
