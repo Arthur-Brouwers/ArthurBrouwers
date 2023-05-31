@@ -1,7 +1,7 @@
 # Portfolio
 *By Arthur Brouwers*
 
-## intro
+## Intro
 Welcome to my GitHub portfolio for Semester 3 projects! As a dedicated learner and aspiring developer, I have created this portfolio to showcase my skills, experiences, and accomplishments in various projects undertaken during my studies.
 
 Throughout Semester 3, I have been working on diverse projects covering different programming languages, tools, and technologies. This portfolio contains a collection of these projects, which not only highlight my technical skills but also demonstrate my problem-solving abilities and creativity.
