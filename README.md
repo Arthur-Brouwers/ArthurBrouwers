@@ -23,5 +23,17 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
 ## Research Documents
 [Research documents](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments.md)
 
+
 ## Proof of Learning Outcomes
+| Learning Outcome | Proof |
+|:-----------------|:-----:|
+|Web Application| [🔗](https://github.com/Arthur-Brouwers/ArthurBrouwers/IPS3/blob/main/proof/web-application.md)
+|Software quality| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/software-quality.md)
+|Agile Method| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/agile-method.md)
+|CI/CD| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/CI-CD.md)
+|Cultural differences and ethics| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/cultural-differences-and-ethics.md)
+|Requirements and design| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/requirements-and-design.md)
+|Business processes| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/business-process.md)
+|Professional| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/professional.md)
+
 
