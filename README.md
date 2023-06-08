@@ -231,13 +231,10 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
           Proficiency is achieved in acting in a professional manner during software development and learning. The clarification is as follows:
         </p>
         <p>
-          Professional manner:
-
+          Professional manner: </br>          
           - Teamwork and methodology: Proficiency is demonstrated by developing software as a team effort according to a prescribed software methodology and adhering to team agreements. This includes effectively tracking work progress and communicating it with the team. </br>
-
           - Feedback and advisory role: Proficiency is exhibited by actively seeking feedback from stakeholders and incorporating it into the development process. Additionally, proficiency includes advising stakeholders on optimal technical and design solutions, providing substantiated recommendations. </br>
-
-- Problem-solving: Proficiency entails the ability to choose and justify solutions for given problems, utilizing critical thinking and analytical skills.</br>
+          - Problem-solving: Proficiency entails the ability to choose and justify solutions for given problems, utilizing critical thinking and analytical skills.</br>
         </p>
         <p>
         In our individual project, we maintained regular communication with our stakeholder, keeping them informed about our sprint goals, reflecting on the previous sprint, and incorporating their feedback into the planning of subsequent sprints. Additionally, we collaborated on writing research documents, such as those related to CI/CD and <a href="https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/Auth0Research.md">Auth0/OAuth2.0</a>. Finally, I documented the 18-week process in my portfolio.
