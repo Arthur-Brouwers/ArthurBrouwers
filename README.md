@@ -23,17 +23,3 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
 ## Research Documents
 [Research documents](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments.md)
 
-
-## Proof of Learning Outcomes
-| Learning Outcome | Proof |
-|:-----------------|:-----:|
-|Web Application| [🔗]()
-|Software quality| [🔗]()
-|Agile Method| [🔗]()
-|CI/CD| [🔗](https://github.com/Arthur-Brouwers/ArthurBrouwers/blob/main/proof/CICD.md)
-|Cultural differences and ethics| [🔗]()
-|Requirements and design| [🔗]()
-|Business processes| [🔗]()
-|Professional| [🔗]()
-
-
