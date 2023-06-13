@@ -31,7 +31,7 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -63,7 +63,7 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -124,7 +124,7 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -222,7 +222,7 @@ This semester, I collaborated with [Matthijs Dolmans](https://github.com/Matthij
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Advanced</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
